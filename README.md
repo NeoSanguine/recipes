@@ -1,2 +1,2 @@
 # recipes
-Problem sovled and what was learned in the process
+Complie recipes in the form of a online cook book.

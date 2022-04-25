@@ -1,0 +1,20 @@
+.homepage {
+    background-color: yellow;
+}
+
+.browniesPage {
+    background-color: burlywood;
+}
+
+.lasagnaPage{
+    background-color: #F98425;
+}
+
+.chocolateChipPage{
+    background-color: #8F5628 ;
+    color:white;
+}
+
+img {
+    border-radius: 50%;
+}
